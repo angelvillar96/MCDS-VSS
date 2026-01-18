@@ -34,10 +34,10 @@ This repository is maintained by [Angel Villar-Corrales](http://angelvillarcorra
 Please consider citing our paper if you find our work or our repository helpful.
 
 ```
-@article{MCDS-VSS,
+@inproceedings{MCDS-VSS,
   title={MCDS-VSS: Moving Camera Dynamic Scene Video Semantic Segmentation by Filtering with Self-Supervised Geometry and Motion},
   author={Villar-Corrales, Angel and Austermann, Moritz and Behnke, Sven},
-  journal={arXiv preprint arXiv:2405.19921},
+  booktitle={British Machine Vision Conference (BMVC)},
   year={2024}
 }
 ```

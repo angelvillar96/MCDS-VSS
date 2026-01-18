@@ -23,8 +23,7 @@ Official implementation of **'MCDS-VSS: Moving Camera Dynamic Scene Video Semant
 
 
 
-#### Code Coming Soon
-
+#### To access the code, please contact the authors at `angelvillarcorrales@gmail.com`
 
 
 
@@ -43,4 +42,4 @@ Please consider citing our paper if you find our work or our repository helpful.
 }
 ```
 
-In case of any questions or problems regarding the project or repository, do not hesitate to contact the authors at villar@ais.uni-bonn.de.
+In case of any questions or problems regarding the project or repository, do not hesitate to contact the authors at angelvillarcorrales@gmail.com.
